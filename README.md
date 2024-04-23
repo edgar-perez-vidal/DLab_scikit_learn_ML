@@ -1,3 +1,4 @@
+# Workshop I attended, has great intro to scikit-learn library:
 # D-Lab's Python Machine Learning Workshop
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Machine-Learning&urlpath=lab%2Ftree%2FPython-Machine-Learning%2F&branch=main) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Machine-Learning/HEAD)
